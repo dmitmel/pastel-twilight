@@ -1,7 +1,8 @@
 {
     "DOCTYPE": "AREAS_MAP",
     "name": {
-        "en_US": "Pastel Fields"
+        "en_US": "Pastel Fields",
+        "langUid": 12
     },
     "width": 68,
     "height": 37,
@@ -49,7 +50,8 @@
         "maps": [{
             "path": "pastel-fields.west",
             "name": {
-                "en_US": "West"
+                "en_US": "West",
+                "langUid": 13
             }
         }],
         "connections": [],

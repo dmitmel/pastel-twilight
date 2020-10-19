@@ -5,7 +5,8 @@
             "langUid": 7313004
         },
         "description": {
-            "en_US": "A Lost Zone north of Basin Keep."
+            "en_US": "A Lost Zone north of Basin Keep.",
+            "langUid": 7313006
         },
         "areaType": "TOWN",
         "order": 2000,
@@ -32,7 +33,8 @@
             "langUid": 7313005
         },
         "description": {
-            "en_US": "A Lost Zone east of Twilight City."
+            "en_US": "A Lost Zone east of Twilight City.",
+            "langUid": 7313007
         },
         "areaType": "PATH",
         "order": 2001,
@@ -50,7 +52,8 @@
             "langUid": 7313006
         },
         "description": {
-            "en_US": "A Lost Zone(?) west of Twilight City."
+            "en_US": "A Lost Zone(?) west of Twilight City.",
+            "langUid": 7313008
         },
         "areaType": "PATH",
         "order": 2002,

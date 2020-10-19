@@ -1,7 +1,8 @@
 {
     "DOCTYPE": "AREAS_MAP",
     "name": {
-        "en_US": "Twilight City"
+        "en_US": "Twilight City",
+        "langUid": 1
     },
     "width": 68,
     "height": 37,
@@ -49,17 +50,20 @@
         "maps": [{
             "path": "twilight-city.square",
             "name": {
-                "en_US": "Square"
+                "en_US": "Square",
+                "langUid": 2
             }
         }, {
             "path": "twilight-city.interior.library",
             "name": {
-                "en_US": "The Archives"
+                "en_US": "The Archives",
+                "langUid": 3
             }
         }, {
             "path": "twilight-city.east",
             "name": {
-                "en_US": "Docks"
+                "en_US": "Docks",
+                "langUid": 4
             }
         }],
         "connections": [{
@@ -152,7 +156,8 @@
         "maps": [{
             "path": "twilight-city.interior.library-2",
             "name": {
-                "en_US": "The Archives - Upper Floor"
+                "en_US": "The Archives - Upper Floor",
+                "langUid": 5
             }
         }],
         "connections": [],

@@ -1,7 +1,8 @@
 {
     "DOCTYPE": "AREAS_MAP",
     "name": {
-        "en_US": "The Eldritch Wastes"
+        "en_US": "The Eldritch Wastes",
+        "langUid": 6
     },
     "width": 60,
     "height": 45,
@@ -57,7 +58,8 @@
         "maps": [{
             "path": "eldritch.entrance",
             "name": {
-                "en_US": "Entrance"
+                "en_US": "Entrance",
+                "langUid": 7
             }
         }, {
             "path": "eldritch.void-path-1",
@@ -67,7 +69,8 @@
                 "zh_CN": "未命名",
                 "ja_JP": "無題",
                 "ko_KR": "미정",
-                "zh_TW": "未命名"
+                "zh_TW": "未命名",
+                "langUid": 8
             }
         }, {
             "path": "eldritch.town-path-1",
@@ -77,7 +80,8 @@
                 "zh_CN": "未命名",
                 "ja_JP": "無題",
                 "ko_KR": "미정",
-                "zh_TW": "未命名"
+                "zh_TW": "未命名",
+                "langUid": 9
             }
         }, {
             "path": "eldritch.town-path-2",
@@ -87,7 +91,8 @@
                 "zh_CN": "未命名",
                 "ja_JP": "無題",
                 "ko_KR": "미정",
-                "zh_TW": "未命名"
+                "zh_TW": "未命名",
+                "langUid": 10
             }
         }, {
             "path": "eldritch.town",
@@ -97,7 +102,8 @@
                 "zh_CN": "未命名",
                 "ja_JP": "無題",
                 "ko_KR": "미정",
-                "zh_TW": "未命名"
+                "zh_TW": "未命名",
+                "langUid": 11
             }
         }],
         "connections": [{
